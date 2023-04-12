@@ -39,6 +39,8 @@ export const SIDEBAR: Sidebar = {
     基本文法: [
       { text: "はじめに", link: "en/introduction" },
       { text: "コメント", link: "en/comment" },
+      { text: "変数", link: "en/variables" },
+      { text: "値の表示", link: "en/print" },
     ],
   },
 };
